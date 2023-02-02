@@ -6,3 +6,4 @@ CreateTableConnectionString -> using psycopg to connect in a questdb instance; <
 CreateTableRequest -> using request to create table by questdb localhost; <br>
 ExecuteQuery -> query and convert raw output to DataFrame; <br>
 StressQuery -> some example to add lot of data; <br>
+- 🔧 &nbsp; Also need QuestDb v6.6.1
